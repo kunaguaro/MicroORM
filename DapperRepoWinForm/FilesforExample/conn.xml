@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <Conexion>
+    <Server>MyServer</Server>
+    <Database>DapperDB</Database>
+    <User>Admin2</User>
+	<Password>123456</Password>
+  </Conexion>
+ 
+</Table>
